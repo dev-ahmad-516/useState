@@ -2,7 +2,6 @@ import React from "react";
 import Popup from "./Popup";
 import PasswordToggle from "./PasswordToggle.jsx"; 
 import { Toaster } from "react-hot-toast";
-import "react-toastify/dist/ReactToastify.css";
 import "./App.css";
 
 
